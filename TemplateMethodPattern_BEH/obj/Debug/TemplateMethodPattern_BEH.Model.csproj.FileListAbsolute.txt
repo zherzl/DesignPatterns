@@ -1,0 +1,6 @@
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\bin\Debug\TemplateMethodPattern_BEH.dll
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\bin\Debug\TemplateMethodPattern_BEH.pdb
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\obj\Debug\TemplateMethodPattern_BEH.Model.csprojResolveAssemblyReference.cache
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\obj\Debug\TemplateMethodPattern_BEH.Model.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\obj\Debug\TemplateMethodPattern_BEH.dll
+E:\Data\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\TemplateMethodPattern_BEH\obj\Debug\TemplateMethodPattern_BEH.pdb
