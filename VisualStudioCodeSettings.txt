@@ -1,0 +1,28 @@
+{
+    "mssql.connections": [
+        {
+            "server": ".\\mojsql",
+            "database": "ALPSv4",
+            "authenticationType": "SqlLogin",
+            "user": "alps",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "ALPS"
+        },
+        {
+            "server": "ili-sql-01.algebra.local",
+            "database": "ALPSv4",
+            "authenticationType": "Integrated",
+            "profileName": "ALPS-prod",
+            "password": ""
+        }
+    ],
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 12,
+    "mssql.resultsFontSize": 10,
+    "mssql.query.displayBitAsNumber": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "window.menuBarVisibility": "default"
+}
