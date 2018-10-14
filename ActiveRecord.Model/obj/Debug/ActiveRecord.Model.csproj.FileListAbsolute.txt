@@ -32,3 +32,4 @@ E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns lear
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\ActiveRecord.Model\bin\Debug\EntityFramework.SqlServer.dll
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\ActiveRecord.Model\bin\Debug\EntityFramework.xml
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\ActiveRecord.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\GIT\DesignPatterns\ActiveRecord.Model\obj\Debug\ActiveRecord.Model.csproj.CoreCompileInputs.cache

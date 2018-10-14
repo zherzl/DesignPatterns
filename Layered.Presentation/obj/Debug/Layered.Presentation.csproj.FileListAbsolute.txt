@@ -19,3 +19,5 @@ E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns lear
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Presentation\bin\Debug\Layered.Repository.pdb
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Presentation\bin\Debug\Layered.Repository.exe.config
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Presentation\bin\Debug\EntityFramework.xml
+D:\Data\GIT\DesignPatterns\Layered.Presentation\obj\Debug\Layered.Presentation.csprojAssemblyReference.cache
+D:\Data\GIT\DesignPatterns\Layered.Presentation\obj\Debug\Layered.Presentation.csproj.CoreCompileInputs.cache

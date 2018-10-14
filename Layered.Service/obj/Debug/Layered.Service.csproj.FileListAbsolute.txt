@@ -16,3 +16,5 @@ E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns lear
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Service\bin\Debug\EntityFramework.dll
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Service\bin\Debug\StructureMap.xml
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\Layered.Service\bin\Debug\EntityFramework.xml
+D:\Data\GIT\DesignPatterns\Layered.Service\obj\Debug\Layered.Service.csprojAssemblyReference.cache
+D:\Data\GIT\DesignPatterns\Layered.Service\obj\Debug\Layered.Service.csproj.CoreCompileInputs.cache

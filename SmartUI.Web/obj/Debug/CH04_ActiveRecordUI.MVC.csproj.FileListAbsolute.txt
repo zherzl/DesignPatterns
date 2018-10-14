@@ -84,3 +84,5 @@ E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns lear
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\SmartUI.Web\obj\Debug\Layered.Web.dll
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\SmartUI.Web\obj\Debug\Layered.Web.pdb
 E:\Zlatko\OneDrive - Visoko uciliste Algebra\Programiranje\_Design patterns learn\DesignPatterns\SmartUI.Web\bin\ActiveRecord.Model.dll.config
+D:\Data\GIT\DesignPatterns\SmartUI.Web\obj\Debug\CH04_ActiveRecordUI.MVC.csprojAssemblyReference.cache
+D:\Data\GIT\DesignPatterns\SmartUI.Web\obj\Debug\CH04_ActiveRecordUI.MVC.csproj.CoreCompileInputs.cache

@@ -48,6 +48,7 @@ dlldata.c
 
 # .NET Core
 project.lock.json
+project.assets.json
 project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
@@ -168,6 +169,7 @@ PublishScripts/
 *.nupkg
 # The packages folder can be ignored because of Package Restore
 **/packages/*
+**/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
