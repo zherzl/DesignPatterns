@@ -1,0 +1,6 @@
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\bin\Debug\ASPPatterns.Chap4.DomainModel.AppService.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\bin\Debug\ASPPatterns.Chap4.DomainModel.AppService.pdb
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\obj\Debug\ASPPatterns.Chap4.DomainModel.AppService.csprojAssemblyReference.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\obj\Debug\ASPPatterns.Chap4.DomainModel.AppService.csproj.CoreCompileInputs.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\obj\Debug\ASPPatterns.Chap4.DomainModel.AppService.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.AppService\obj\Debug\ASPPatterns.Chap4.DomainModel.AppService.pdb

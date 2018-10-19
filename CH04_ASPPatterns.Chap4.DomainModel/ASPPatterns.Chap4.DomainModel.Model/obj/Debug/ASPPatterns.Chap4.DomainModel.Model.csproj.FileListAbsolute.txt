@@ -1,0 +1,6 @@
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.csprojAssemblyReference.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.csproj.CoreCompileInputs.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Model\obj\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb

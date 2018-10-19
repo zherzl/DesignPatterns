@@ -1,0 +1,9 @@
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csprojAssemblyReference.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csproj.CopyComplete
