@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -41,9 +42,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mappers\ViewMapper.cs" />
+    <Compile Include="Messages\BankAccountCreateRequest.cs" />
+    <Compile Include="Messages\BankAccountCreateResponse.cs" />
+    <Compile Include="Messages\DepositRequest.cs" />
+    <Compile Include="Messages\FindAllBankAccountResponse.cs" />
+    <Compile Include="Messages\FindBankAccountResponse.cs" />
+    <Compile Include="Messages\ResponseBase.cs" />
+    <Compile Include="Messages\TransferRequest.cs" />
+    <Compile Include="Messages\TransferResponse.cs" />
+    <Compile Include="Messages\WithdrawalRequest.cs" />
+    <Compile Include="Services\AccountService.cs" />
+    <Compile Include="Services\BankAccountRepository.cs" />
     <Compile Include="ViewModel\BankAccountView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ASPPatterns.Chap4.DomainModel.Model\ASPPatterns.Chap4.DomainModel.Model.csproj">
+      <Project>{E7BF32B1-76D0-49B3-84E6-C9B5498AE4F0}</Project>
+      <Name>ASPPatterns.Chap4.DomainModel.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

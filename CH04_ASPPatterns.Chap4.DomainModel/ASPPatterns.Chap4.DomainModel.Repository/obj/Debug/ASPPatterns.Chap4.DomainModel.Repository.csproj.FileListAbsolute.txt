@@ -7,3 +7,12 @@ C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.Do
 C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
 C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
 C:\Users\LH\source\repos\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csproj.CopyComplete
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.dll
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\bin\Debug\ASPPatterns.Chap4.DomainModel.Model.pdb
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csprojAssemblyReference.cache
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csproj.CoreCompileInputs.cache
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.csproj.CopyComplete
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.dll
+D:\Data\GIT\DesignPatterns\CH04_ASPPatterns.Chap4.DomainModel\ASPPatterns.Chap4.DomainModel.Repository\obj\Debug\ASPPatterns.Chap4.DomainModel.Repository.pdb
