@@ -25,4 +25,5 @@
     "mssql.query.displayBitAsNumber": false,
     "java.errors.incompleteClasspath.severity": "ignore",
     "window.menuBarVisibility": "default"
+    
 }
