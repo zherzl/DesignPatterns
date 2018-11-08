@@ -21,8 +21,7 @@ namespace Model
         {
             int salesAndReservations = 0;
             PurchasedTickets.ForEach(t => salesAndReservations += t.TicketQuantity);
-            ReservedTickets.FindAll(r => r.StillActive())
-                .ForEach(r => salesAndReservations += r.TicketQuantity);
+            ReservedTickets.FindAll(r => r.StillActive()).ForEach(r => salesAndReservations += r.TicketQuantity);
 
             return Allocation - salesAndReservations;
         }
@@ -64,14 +63,15 @@ namespace Model
                 TicketReservation reservation = GetReservationWith(reservationId);
                 if (reservation.HasExpired())
                     reservationIssue =
-                     String.Format("Ticket reservation ‘{ 0}’ has expired", reservationId.ToString());
+                     String.Format("Ticket reservation ‘{0}’ has expired", reservationId.ToString());
                 else if (reservation.HasBeenRedeemed)
-                    reservationIssue = String.Format("Ticket reservation ‘{ 0}’ has already been redeemed", reservationId.ToString());
+                    reservationIssue = String.Format("Ticket reservation ‘{0}’ has already been redeemed", reservationId.ToString());
             }
             else
-                reservationIssue = String.Format("There is no ticket reservation with the Id ‘{ 0}’", reservationId.ToString());
+                reservationIssue = String.Format("There is no ticket reservation with the Id ‘{0}’", reservationId.ToString());
             return reservationIssue;
         }
+
         private void ThrowExceptionWithDetailsOnWhyTicketsCannotBeReserved()
         {
             throw new ApplicationException
@@ -87,8 +87,7 @@ namespace Model
         {
             if (!CanReserveTicket(tktQty))
                 ThrowExceptionWithDetailsOnWhyTicketsCannotBeReserved();
-            TicketReservation reservation =
-                TicketReservationFactory.CreateReservation(this, tktQty);
+            TicketReservation reservation = TicketReservationFactory.CreateReservation(this, tktQty);
 
             ReservedTickets.Add(reservation);
             return reservation;
