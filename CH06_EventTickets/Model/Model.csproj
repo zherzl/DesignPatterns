@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="Event.cs" />
     <Compile Include="Factory\TicketFactory.cs" />
-    <Compile Include="IEventRepository.cs" />
     <Compile Include="TicketPurchase.cs" />
     <Compile Include="TicketReservation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
