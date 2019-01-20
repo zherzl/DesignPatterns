@@ -7,9 +7,9 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using DataContract;
 
-namespace Contracts
+namespace EventTickets.Contracts
 {
-        [ServiceContract(Namespace = "ASPPatterns.Chap6.EventTickets /")]
+        [ServiceContract(Namespace = "EventTickets.TicketService")]
         public interface ITicketService
         {
             [OperationContract()]

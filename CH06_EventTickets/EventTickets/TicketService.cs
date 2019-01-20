@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using System.ServiceModel.Activation;
 using DataContract;
 using Repository;
-using Contracts;
 using Model;
+using EventTickets.Contracts;
 
 namespace EventTickets
 {

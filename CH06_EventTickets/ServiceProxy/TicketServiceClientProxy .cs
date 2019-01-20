@@ -1,5 +1,5 @@
-﻿using Contracts;
-using DataContract;
+﻿using DataContract;
+using EventTickets.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;

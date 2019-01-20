@@ -11,14 +11,21 @@ namespace Repository
         @"Data Source =.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\EventTickets.mdf;"
         + @"Integrated Security=True; User Instance=True";
 
+        public EventRepository()
+        {
+            connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\EventTickets.mdf;Integrated Security=True;Connect Timeout=30";
+        }
+        //Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\EventTickets.mdf;Integrated Security=True;Connect Timeout=30
         public Event FindBy(Guid id)
         {
+
+
             Event Event = default(Event);
 
             string queryString =
-                "SELECT* FROM dbo.Events WHERE Id = @EventId " +
-                "SELECT* FROM dbo.PurchasedTickets WHERE EventId = @EventId " +
-                "SELECT* FROM dbo.ReservedTickets WHERE EventId = @EventId;";
+                "SELECT * FROM dbo.Events WHERE Id = @EventId " +
+                "SELECT * FROM dbo.PurchasedTickets WHERE EventId = @EventId " +
+                "SELECT * FROM dbo.ReservedTickets WHERE EventId = @EventId;";
             using (SqlConnection connection =
                    new SqlConnection(connectionString))
             {
