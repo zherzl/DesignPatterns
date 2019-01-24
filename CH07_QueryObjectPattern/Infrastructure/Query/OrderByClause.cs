@@ -11,5 +11,12 @@ namespace Infrastructure.Query
         public string PropertyName { get; set; }
         public bool Desc { get; set; }
 
+        public static OrderByClause Create(string propertyName, bool desc)
+        {
+            return new OrderByClause
+            {
+                PropertyName = propertyName, Desc = desc
+            };
+        }
     }
 }

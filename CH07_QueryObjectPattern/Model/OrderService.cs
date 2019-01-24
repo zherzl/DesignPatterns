@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
+
     public class OrderService
     {
         private IOrderRepository _orderRepository;
@@ -22,7 +23,8 @@ namespace Model
 
             Query query = new Query();
             query.Add(new Criterion(nameof(Order.CustomerId), customerId, CriteriaOperator.Equal));
-            query.OrderByProperty = new OrderByClause { PropertyName = "CustomerId", Desc = true };
+            //query.OrderByProperty = new OrderByClause { PropertyName = "CustomerId", Desc = true };
+            query.OrderByProperty = OrderByClause.Create(nameof(Order.Id), true);
 
             customerOrders = _orderRepository.FindBy(query);
 
@@ -40,9 +42,11 @@ namespace Model
             //query.Add(new Criterion("OrderDate", orderDate, CriteriaOperator.LessThanOrEqual));
             query.Add(Criterion.Create<Order>(x => x.OrderDate, orderDate, CriteriaOperator.LessThanOrEqual));
             //query.OrderByProperty = new OrderByClause { PropertyName = "OrderDate", Desc = true };
-            query.OrderByProperty = new OrderByClause {
+            query.OrderByProperty = new OrderByClause
+            {
                 PropertyName = PropertyNameHelper.ResolvePropertyName<Order>(x => x.OrderDate),
-                Desc = true };
+                Desc = true
+            };
 
             customerOrders = _orderRepository.FindBy(query);
 
